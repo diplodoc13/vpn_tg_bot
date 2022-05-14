@@ -110,8 +110,8 @@ ENV/
 env.bak/
 venv.bak/
 idea/
-.idea/
-index.pb
+.idea
+
 
 # Spyder project settings
 .spyderproject
